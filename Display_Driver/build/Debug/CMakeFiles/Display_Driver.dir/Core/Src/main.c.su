@@ -1,0 +1,4 @@
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/cmake/stm32cubemx/../../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Core/Src/main.c:68:5:main	8	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Core/Src/main.c:115:6:SystemClock_Config	88	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Core/Src/main.c:165:6:Error_Handler	4	static

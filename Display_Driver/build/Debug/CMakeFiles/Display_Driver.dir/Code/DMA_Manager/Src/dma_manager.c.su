@@ -1,0 +1,13 @@
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:20:6:Enable_SPI1_DMA2	16	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:35:6:Init_SPI1_DMA2	8	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:76:9:DMA_SPI1_GetCurrentTarget	4	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:80:9:DMA_SPI1_GetWritableTarget	8	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:84:6:DMA_SPI1_GetTransferCompleteFlag	4	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:90:6:DMA_SPI1_Write16ToWritableBuffer	24	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:110:6:DMA_SPI1_WriteBufferToWritableBuffer	24	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:144:6:DMA_SPI1_DisableStream	4	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:153:6:DMA_SPI1_SetTransferCount	16	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:166:6:DMA_SPI1_Start	8	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:186:6:DMA_SPI1_IsBusy	4	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:196:6:DMA_SPI1_Write16ToBuffer	24	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/DMA_Manager/Src/dma_manager.c:217:6:DMA2_Stream3_IRQHandler	8	static

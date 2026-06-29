@@ -1,0 +1,6 @@
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/SPI1_DMA2_Manager/Src/spi1_dma2_manager.c:3:6:SPI1_WaitDone	4	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/SPI1_DMA2_Manager/Src/spi1_dma2_manager.c:11:6:SPI1_Enable	16	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/SPI1_DMA2_Manager/Src/spi1_dma2_manager.c:20:6:SPI1_Set16Bit	8	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/SPI1_DMA2_Manager/Src/spi1_dma2_manager.c:26:6:SPI1_Set8Bit	8	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/SPI1_DMA2_Manager/Src/spi1_dma2_manager.c:32:6:SPI1_Write8bit	16	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/SPI1_DMA2_Manager/Src/spi1_dma2_manager.c:38:6:SPI1_Init	8	static

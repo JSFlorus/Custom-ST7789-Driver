@@ -1,0 +1,6 @@
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/ST7789_Manager/Src/st7789_demo.c:23:13:DemoShowWindow	32	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/ST7789_Manager/Src/st7789_demo.c:84:13:DemoFillScreen	40	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/ST7789_Manager/Src/st7789_demo.c:124:6:ST7789_DemoShowWindowSequence	40	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/ST7789_Manager/Src/st7789_demo.c:178:13:DemoCreateMovingWindow	40	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/ST7789_Manager/Src/st7789_demo.c:217:13:DemoShowBufferWindow	32	static
+/mnt/drive/Code/stm32/stm32-display/Display_Driver/Code/ST7789_Manager/Src/st7789_demo.c:278:6:ST7789_DemoMovingBox	40	static

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/drive/Code/stm32/stm32-display/Display_Driver/build/Debug/cmake_install.cmake",
+		"/mnt/drive/Code/stm32/stm32-display/Display_Driver/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
