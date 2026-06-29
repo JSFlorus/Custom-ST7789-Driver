@@ -1,3 +1,13 @@
+## Motion Demo
+
+This project includes a motion comparison using a bouncing-ball test on the ST7789 display:
+
+- [My custom ST7789 driver](My_Driver.mp4)
+- [Reference ST7789/uGUI driver](ST7789-STM32-uGUI_by_deividAlfa.mp4)
+
+The comparison highlights the main goal of this driver: smoother motion during repeated screen updates. The custom driver uses SPI1 at 42 MHz with DMA double-buffer mode, letting the DMA hardware stream pixel data while the firmware prepares the next transfer window/buffer. This reduces visible update delay during motion-heavy drawing compared with a slower blocking or less optimized update path.
+
+
 # STM32 Display Driver
 
 This project is an STM32F407 display-driver experiment for driving an ST7789 TFT display over SPI using DMA double-buffer mode.
