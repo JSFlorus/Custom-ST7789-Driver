@@ -89,28 +89,6 @@ Main responsibilities:
 - Exercise the DMA double-buffer transfer path.
 - Demonstrate corner fills, screen clearing, and moving/center box behavior.
 
-The application calls:
-
-```c
-ST7789_DemoShowWindowSequence();
-```
-
-from the main loop.
-
-## Runtime Flow
-
-At startup, `main.c` initializes the MCU and display stack:
-
-1. `HAL_Init()`
-2. `SystemClock_Config()`
-3. `MX_GPIO_Init()`
-4. `MX_SPI1_Init()`
-5. `Init_SPI1_DMA2()`
-6. `NVIC_EnableIRQ(DMA2_Stream3_IRQn)`
-7. `ST7789_Init()`
-
-Then the main loop runs the ST7789 demo.
-
 ## Data Flow
 
 The pixel-transfer path is:
